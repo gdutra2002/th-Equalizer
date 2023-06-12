@@ -9,7 +9,7 @@
 
 ## Installation
 
-somthing-funky@heroku
+https://git.heroku.com/quiet-river-50076.git
 
 ## Usage
 >
